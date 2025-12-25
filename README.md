@@ -33,4 +33,3 @@ The dataset used in this project is available publicly on Kaggle: https://www.ka
 
 To practice data cleaning, exploratory data analysis (EDA), and visualization using real-world crime data to generate actionable insights for law enforcement and policy-making.
 
-If you want, I can also **make an even shorter, GitHub-ready version** with **3–4 crisp points** that looks very clean on the repo homepage. Do you want me to do that?
