@@ -11,6 +11,9 @@ This project analyzes crime data across India using Python to uncover insights a
 * NumPy
 * Matplotlib
 * Seaborn
+* 
+### Dataset:
+The dataset used in this project is available publicly on Kaggle: https://www.kaggle.com/datasets/sudhanvahg/indian-crimes-dataset
 
 ### Key Analysis
 
